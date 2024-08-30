@@ -2,10 +2,10 @@
 Material de apoyo para DAWeb con conectividad a base de datos
 
 ## Cursos y publicaciones de diseño & desarrollo web
--link https://www.eniun.com/
+- link https://www.eniun.com/
 ## Codepen
--link https://codepen.io/
+- link https://codepen.io/
 ## MCLIBRE  MATERIAL CURRICULAR LIBRE
--link https://www.mclibre.org/
+- link https://www.mclibre.org/
 ## W3Schools Online Web Tutorials
--link https://www.w3schools.com/
+- link https://www.w3schools.com/
